@@ -37,7 +37,7 @@ Look for more usage of SCALE
 
 Use functions in SCALE packages.
 
-	import sciva
+	import DREAM
 	from DREAM import *
 	from DREAM.plot import *
 	from DREAM.utils import *
